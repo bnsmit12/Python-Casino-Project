@@ -1,0 +1,1 @@
+This was the final project of my Intro to Python class I took at UofL. I was the main leader on this project and I did most of the code. I was the one who made the email verfication system which I think is the highlight of this project, since it was by far the hardest to set up.
